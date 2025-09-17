@@ -23,7 +23,6 @@ It covers basic flows like login, adding and removing products to/from the cart,
 ### Installation
 ```bash
 git clone https://github.com/your-username/swag-labs-cypress-e2e.git
-cd swag-labs-cypress-e2e
 npm install
 npx cypress open
 ```
